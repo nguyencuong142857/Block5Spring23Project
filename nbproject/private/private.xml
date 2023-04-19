@@ -6,6 +6,8 @@
             <file>file:/C:/Users/ngnqu/OneDrive/Documents/GitHub/Block5Spring23Project/src/java/controller/auth/BaseAuthenticationController.java</file>
             <file>file:/C:/Users/ngnqu/OneDrive/Documents/GitHub/Block5Spring23Project/src/java/controller/auth/LoginController.java</file>
             <file>file:/C:/Users/ngnqu/OneDrive/Documents/GitHub/Block5Spring23Project/src/java/controller/auth/LogoutController.java</file>
+            <file>file:/C:/Users/ngnqu/OneDrive/Documents/GitHub/Block5Spring23Project/src/java/dao/DBContext.java</file>
+            <file>file:/C:/Users/ngnqu/OneDrive/Documents/GitHub/Block5Spring23Project/src/java/dao/AccountDBContext.java</file>
         </group>
     </open-files>
 </project-private>
